@@ -45,3 +45,4 @@ output_path = "data/synthetic_business_process_data.csv"
 data.to_csv(output_path, index=False)
 
 print(f"Synthetic dataset saved to {output_path}")
+
