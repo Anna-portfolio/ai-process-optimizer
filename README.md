@@ -7,6 +7,7 @@ This project is a prototype for an internal AI solution aimed at providing recom
 The workflow simulates a real-life scenario where business teams provide datasets, and machine learning models generate actionable insights, such as whether to increase automation or improve quality.<br><br>
 The project demonstrates the end-to-end workflow from data generation to ML model training and recommendation visualization.
 <br>
+
 ## Project Structure
 
 ```
