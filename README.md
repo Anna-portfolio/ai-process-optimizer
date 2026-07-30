@@ -55,6 +55,16 @@ project_root/
 * `model_prototype.py` provides exploratory data analysis and visualizations.
 * Bar charts, scatter plots, and interactive Plotly visualizations help understand predictions.
 
+### 5. Model evaluation
+
+The model was evaluated using:
+
+* accuracy
+* precision
+* recall
+* F1-score
+* classification report
+
 ## Technologies / Stack
 
 * **Python** (data processing, ML, scripting)
