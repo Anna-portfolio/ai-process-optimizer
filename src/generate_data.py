@@ -3,7 +3,7 @@ import numpy as np
 
 # Synthetic dataset generator for Process Optimization Recommendations
 # This script generates a dataset simulating internal business process data 
-# used to train a recommendation/forecasting model
+# used to train a recommendation model
 
 # Dataset includes: process volume, automation rate, avg handling time, error rate,
 # satisfaction score, and business KPIs
