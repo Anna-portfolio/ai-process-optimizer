@@ -8,6 +8,16 @@ The workflow simulates a real-life scenario where business teams provide dataset
 The project demonstrates the end-to-end workflow from data generation to ML model training and recommendation visualization.
 <br>
 
+## Business value
+
+This prototype demonstrates how machine learning models can support operational teams by:
+
+* identifying processes suitable for automation;
+* detecting quality issues;
+* reducing handling times;
+* improving customer satisfaction;
+* supporting data-driven decision-making.
+
 ## Project Structure
 
 ```
