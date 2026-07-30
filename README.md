@@ -23,7 +23,7 @@ project_root/
 │
 ├─ src/                          # Python scripts for workflow
 │   ├─ generate_data.py          # Generates synthetic business data
-│   ├─ train_model.py            # Trains RandomForest model on synthetic data
+│   ├─ model_training.py         # Trains RandomForest model on synthetic data
 │   └─ recommendation_logic.py   # Applies model to data and outputs recommendations
 │
 ├─ notebooks/                    # Prototypes 
