@@ -19,7 +19,6 @@ df["label_encoded"] = le.fit_transform(df["recommended_action"])
 
 # Feature selection
 features = [
-    "process_id",
     "volume",
     "automation_rate",
     "avg_handling_time",
